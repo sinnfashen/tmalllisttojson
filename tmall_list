@@ -62,10 +62,6 @@ oq=%C5%AE%D7%B0
 industryCatId=50025135
 cat=50025135
 prop=122216347:740138901
-----商场同款----
-cat=53596001
-aldid=ytiqNCRQ
-industryCatId=50025135#J_crumbs
 ----气质连衣裙----
 q=%C1%AC%D2%C2%C8%B9
 cat=55836006
@@ -242,9 +238,6 @@ cat=50025174
 ----春季焕新----
 q=%B4%BA
 cat=53636001
-----商场同款----
-cat=53446004
-industryCatId=50025174#J_crumbs
 ----修身夹克----
 q=%BC%D0%BF%CB
 cat=50025174
@@ -336,9 +329,6 @@ q=%CD%F8%C7%F2%D0%AC
 new=1
 pic_detail=1
 cat=50026637
-----商场同款----
-q=%C9%CC%B3%A1%CD%AC%BF%EE
-cat=50106425
 ----休闲鞋----
 cat=50076895
 ----高帮鞋----
@@ -375,8 +365,6 @@ new=1
 q=%D0%A1%B0%D7%D0%AC
 cat=50025829
 aldid=poWokfUO#J_crumbs
-----商场同款----
-cat=53944020
 ----帆布鞋----
 cat=55958013
 ----深口单鞋----
@@ -524,10 +512,6 @@ theme=714
 industryCatId=51052003
 cat=55796011
 aldid=382617
-----商场同款----
-industryCatId=51052003
-cat=55722012
-aldid=382617#J_crumbs
 ----女士钱包----
 industryCatId=55722012
 cat=55752015
@@ -590,10 +574,6 @@ aldid=382672
 industryCatId=55722012
 cat=53670014
 aldid=382672#J_crumbs
-----商场同款----
-q=%C4%D0%B0%FC
-cat=55722012
-aldid=382672
 ----新品推荐----
 q=%C4%D0%B0%FC
 cat=55796011
@@ -892,10 +872,6 @@ shopType=any
 ----K金饰品----
 industryCatId=53894013
 cat=53844015
-shopType=any
-----商场同款----
-industryCatId=53894013
-cat=53840016
 shopType=any
 ----太阳镜----
 q=%CC%AB%D1%F4%BE%B5
